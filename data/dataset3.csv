@@ -1,0 +1,11 @@
+Patient_ID,Age,Gender,Health_Condition,Heart_Rate,Blood_Pressure,BMI,Physical_Activity_Hours,Sleep_Duration_Hours
+1,35,Male,Healthy,72,125/82,27.3,3,7
+2,45,Female,Hypertension,88,130/85,29.1,2,6
+3,28,Female,Healthy,65,120/80,25.8,1,8
+4,60,Male,Diabetes,75,118/78,23.5,4,7.5
+5,32,Male,Healthy,80,140/90,30.2,2.5,6.5
+6,50,Female,Heart Disease,95,122/80,26.7,3.5,7.5
+7,40,Male,Healthy,70,135/88,28.9,1.5,8
+8,55,Female,Hypertension,78,125/82,27.6,2,7
+9,45,Male,Healthy,68,110/70,22.8,4.5,7
+10,35,Female,Diabetes,85,150/95,31.5,1,6

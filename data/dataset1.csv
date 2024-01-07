@@ -1,0 +1,11 @@
+Patient_ID,Age,Gender,Health_Condition,Heart_Rate
+1,35,Male,Healthy,72
+2,45,Female,Hypertension,88
+3,28,Female,Healthy,65
+4,60,Male,Diabetes,75
+5,32,Male,Healthy,80
+6,50,Female,Heart Disease,95
+7,40,Male,Healthy,70
+8,55,Female,Hypertension,78
+9,45,Male,Healthy,68
+10,35,Female,Diabetes,85
